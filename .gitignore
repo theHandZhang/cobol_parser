@@ -16,7 +16,6 @@ Thumbs.db
 .project
 bin/
 build/
-lib/
 target/
 
 **/proprietary/
